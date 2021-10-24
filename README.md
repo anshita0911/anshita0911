@@ -39,6 +39,6 @@
   </summary>
 <p align="center">
 <a href="https://github.com/anshita0911/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=devesh2511&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=anshita0911&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
