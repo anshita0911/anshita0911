@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi Folks <img src="wave.gif" width="30px">, Hello! This is Anshita!</h1>
+<h1 align="center">Hi Folks <img src="wave.gif" width="30px">, This is Anshita!</h1>
 <h3 align="center">I am a Computer Science learner, Web developer & writer.</h3>
 
 - 💻 **[Check out my projects!] (https://github.com/anshita0911?tab=repositories)**
