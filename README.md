@@ -10,10 +10,10 @@
 
 - 📫 Reach 👇<br>
 
-[![](https://www.linkedin.com/in/anshita-banthia-2418401b6/)
-[![](https://www.instagram.com/anshitasomething/)
-[![](mailto:anshitabanthia@gmail.com)
-[![](https://github.com/anshita0911)
+[![](https://www.linkedin.com/in/anshita-banthia-2418401b6/)]
+[![](https://www.instagram.com/anshitasomething/)]
+[![](mailto:anshitabanthia@gmail.com)]
+[![](https://github.com/anshita0911)]
 
 <br />
 <img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="290" />
